@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ﻿# onlineexam
 ![WhatsApp Image 2024-11-29 at 04 18 41_7befd9ec](https://github.com/user-attachments/assets/e09b1bfa-df26-4dc9-bd54-8d57871a1f66)
 ![WhatsApp Image 2024-11-29 at 04 18 40_956c4759](https://github.com/user-attachments/assets/cf8efab0-fd83-49ab-98c1-4daa4439bea9)
